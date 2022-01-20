@@ -1,0 +1,18 @@
+[submodule "3rdparty/pybind11"]
+	path = 3rdparty/pybind11
+	url = https://github.com/Tom94/pybind11
+[submodule "3rdparty/eigen"]
+	path = 3rdparty/eigen
+	url = https://github.com/Tom94/eigen
+[submodule "3rdparty/glfw"]
+	path = 3rdparty/glfw
+	url = https://github.com/Tom94/glfw
+[submodule "3rdparty/args"]
+	path = 3rdparty/args
+	url = https://github.com/Taywee/args
+[submodule "3rdparty/tinylogger"]
+	path = 3rdparty/tinylogger
+	url = https://github.com/Tom94/tinylogger
+[submodule "3rdparty/tiny-cuda-nn"]
+	path = 3rdparty/tiny-cuda-nn
+	url = https://github.com/NVlabs/tiny-cuda-nn
